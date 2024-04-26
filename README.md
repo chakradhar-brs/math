@@ -1,1 +1,1 @@
-https://chakradhar-brs.github.io/math/
+ https://chakradhar-brs.github.io/math/
